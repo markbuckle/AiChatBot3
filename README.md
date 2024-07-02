@@ -1,4 +1,4 @@
-# AI-Chat-Bot
+<h1>AI-Chat-Bot</h1>
 
 AI chat bot using Retrieval-Augmented Generation (RAG)
 
